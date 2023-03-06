@@ -17,8 +17,6 @@ Geralmente esses são os Sistemas Operacionais que mais venho usando ultimamente
 </div></br>
 
 
-![Mayk GitHub stats](https://github-readme-stats.vercel.app/api?username=MaykJD&show_icons=true&theme=dracula)
-
 ## Ferramentas de Trabalho
 
 <div style="display: inline-block;"><br/>
