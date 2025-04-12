@@ -1,8 +1,8 @@
 
 # 👋 Olá! Eu sou o Mayk Jadam
 
-🎓 Cientista de Dados | Engenheiro de Machine Learning em formação  
 📊 Python • SQL • Spark • Databricks • MLflow • Power BI
+
 ---
 
 ## 🚀 Sobre Mim
@@ -13,7 +13,7 @@ Trabalho com todo o ciclo de vida de projetos de dados — da coleta e limpeza a
 
 ---
 
-## 🏆 Experiência Profissional
+## 🏆 Ultima Experiência Profissional
 
 ### **Estagiário em Ciência de Dados | Brognoli**  
 📍 Florianópolis - Remoto | 📅 jul 2024 → abr 2025
@@ -67,4 +67,3 @@ Trabalhar com **projetos desafiadores de dados em larga escala**, explorando int
 ---
 
 **“Transformar dados em decisões inteligentes não é só técnica — é visão.”**  
-🔗 Vamos conversar? Me chama no [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayk-jadam-59999419a/)
