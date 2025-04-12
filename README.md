@@ -1,63 +1,73 @@
-### **Olá! Eu me chamo Mayk Jadam** 🧠🚀  
-Atualmente atuo como **Cientista de Dados**, combinando programação, estatística, visualização e machine learning para transformar dados em soluções inteligentes.  
-Sou apaixonado por **dados**, **cibersegurança**, e tudo que envolve tecnologia e criatividade!
+# 👋 Olá! Eu sou o Mayk Jadam
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayk-jadam-59999419a/)
+🎓 Cientista de Dados | Engenheiro de Machine Learning em formação  
+📍 Brasil | 💻 Remoto  
+📊 Python • SQL • Spark • Databricks • MLflow • Power BI
 
-<img height="" width="250" align="right" alt="GIF" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayk-jadam-59999419a/)
+---
+
+## 🚀 Sobre Mim
+
+Tenho 23 anos e atualmente curso **Ciência da Computação na UFC**. Atuo como **Cientista de Dados**, com ênfase em soluções que combinam machine learning, engenharia de dados e visualização para gerar impacto real em negócios.
+
+Trabalho com todo o ciclo de vida de projetos de dados — da coleta e limpeza até a modelagem, validação e deploy. Também tenho explorado o universo de LLMs, modelos generativos e pipelines escaláveis com Apache Spark.
 
 ---
 
-## 💻 Tecnologias que utilizo no dia a dia
+## 🏆 Experiência Profissional
+
+### **Estagiário em Ciência de Dados | Brognoli**  
+📍 Florianópolis - Remoto | 📅 jul 2024 → abr 2025
+
+- 📈 Aumentei em **+40% a taxa de abertura de campanhas** de e-mail marketing com modelos de ML para hiperpersonalização, gerando conversões e ROI mensurável.
+- ✨ Criei a campanha viral **"Se Floripa é a ilha da magia, o continente é o feitiço perfeito"**, que alcançou **60% de abertura** (benchmark de 18%).
+- 🔗 Liderei a **integração de plataformas** (RD Station, Wake, Bitrix) com análise de grandes volumes de dados usando Python, SQL e Spark.
+- 🧠 Implementei algoritmos avançados de classificação e segmentação, otimizando o direcionamento de campanhas e aumentando a taxa de conversão.
+
+---
+
+## 🧠 Minhas Especialidades
+
+- 📊 Análise de Dados e Storytelling com dashboards (Power BI, Metabase)
+- 🤖 Machine Learning com Scikit-Learn, MLflow e Databricks
+- 🏗️ Engenharia de Dados com Apache Spark e pipelines robustos (Airflow)
+- 🧬 Pesquisa e aplicação de LLMs e modelos generativos
+- 🛠️ Deploy de modelos com foco em performance e escalabilidade
+
+---
+
+## 🧰 Principais Tecnologias
 
 <div style="display: inline-block;"><br/>
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">    
-    <img align="center" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-    <img align="center" alt="Numpy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"> 
-    <img align="center" alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> 
-    <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"> 
-    <img align="center" alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"> 
-    <img align="center" alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"> 
-</div></br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-F80000?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-10253F?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</div>
 
 ---
 
-## 🛠️ Background em Cibersegurança
+## 📂 Projetos em Destaque
 
-Antes de focar em ciência de dados, atuei com **cibersegurança**. Essa bagagem me dá uma visão crítica e ética no tratamento de dados, com foco em **privacidade**, **Linux**, e **análise forense**.
-
-<div style="display: inline-block;"><br/>
-    <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">    
-    <img align="center" alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">   
-    <img align="center" alt="Tor" src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"> 
-    <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-</div></br>
+- 🔍 **Análise Exploratória com Pandas e Plotly**  
+- 📈 **Modelos Preditivos para Otimização de Marketing Digital**
+- 🧪 **Dashboards interativos para KPIs de negócios**
+- 📦 **Construção de pipelines escaláveis com Spark + Airflow**
+- 🤖 **Estudos e experimentos com LLMs e modelos generativos**
 
 ---
 
-## 📊 Projetos em Destaque
+## 🎯 Meu Objetivo
 
-- **Análise Exploratória de Dados com Pandas e Plotly**  
-- **Modelos preditivos com Scikit-Learn**  
-- **Dashboard interativo com Streamlit**  
-- **Scripts para coleta e limpeza de dados automatizada**
-
-➡️ *(Em breve atualizarei os links dos repositórios aqui!)*
+Trabalhar com **projetos desafiadores de dados em larga escala**, explorando inteligência artificial aplicada, engenharia de dados robusta e soluções preditivas que tragam valor real.
 
 ---
 
-## ✨ Curiosidades
-
-- Sou um eterno aprendiz — acredito que tecnologia e conhecimento devem ser acessíveis.
-- A curiosidade sempre me guiou: dos sistemas Linux à inteligência artificial.
-- Nas horas vagas, gosto de criar visualizações bonitas, fuçar em datasets e explorar a deep web (de forma ética, claro).
-
----
-
-### 📬 Vamos nos conectar?
-
-Se quiser bater um papo sobre dados, IA, tech ou só trocar ideia:  
-📩 **Me chama no LinkedIn.
-
----
+**“Transformar dados em decisões inteligentes não é só técnica — é visão.”**  
+🔗 Vamos conversar? Me chama no [LinkedIn](https://www.linkedin.com/in/mayk-jadam-59999419a/)!
 
